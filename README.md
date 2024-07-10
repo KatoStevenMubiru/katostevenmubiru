@@ -3,6 +3,8 @@
 
 AI/ML Engineer | Autonomous Systems Engineer | Specializing in AI applications for Healthcare, Energy, Finance, Security, and Telecoms
 
+Dedicated to advancing applied AI research through close collaboration with research scientists, bridging the gap between theoretical breakthroughs and real-world applications.
+
 ## 🚀 About Me
 I'm a versatile AI/ML engineer passionate about developing innovative solutions across various domains. My journey in tech is marked by a consistent track record of academic excellence and industry recognition, from early achievements in physics to recent contributions in cutting-edge AI projects.
 
