@@ -17,7 +17,7 @@ I'm a versatile AI/ML engineer passionate about developing innovative solutions 
 - **Meta Africa AR/VR Hackathon Runners Up** (2022): Collaborated on innovative AR/VR solutions
 - **International Student Merit Scholarship, Colorado Mesa University** (2019)
 - **Government Sponsorship, Makerere University** (2016): Awarded for top academic performance
-- **StateHouse Uganda, Masters in AI Sponsorship** (2023): Chosen from the School of Computing for technical expertise and merit-based qualifications. Currently in the vetting process, awaiting graduation and further updates. Aptitudes excelled at National Innovation Hub.
+- **StateHouse Uganda, Masters in AI Sponsorship** (2023): Chosen from the School of Computing for technical expertise and merit-based qualifications. Completed initial the vetting process, awaiting graduation and further updates. Aptitudes excelled at National Innovation Hub.
 - **Best Student UACE (Physics Class), Gombe Secondary School** (2015): AAA in Physics, Math, and Economics
 
 ## 🛠 Skills
