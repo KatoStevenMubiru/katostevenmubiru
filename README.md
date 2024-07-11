@@ -50,6 +50,9 @@ I'm a versatile AI/ML engineer passionate about developing innovative solutions 
 - Stanford University: AI in Healthcare Program
 - DeepLearning.AI: TensorFlow Developer, Deep Learning Specialization
 - IBM: Machine Learning, Deep Learning, AI Engineering, Cybersecurity
+- Meta: AR Developer, iOS Developer, Android Developer
+- Unity: VR Development
+- Udacity: Data Scientist,Data Engineer, Data Streaming, Ethical AI, Generative AI, Autonomous Flight Engineer etc.
 
 ## 📫 Connect with Me
 - LinkedIn: [Kato Steven](https://www.linkedin.com/in/katostevenmubiru/)
