@@ -13,10 +13,11 @@ I'm a versatile AI/ML engineer passionate about developing innovative solutions 
 - **Anthropic's Build with Claude Hackathon Participant** (2024): Created a Healthcare Document Interrogation System
 - **Mistral AI Fine-tuning Hackathon Participant** (2024)
 - **Outstanding Contributor at Unify** (2024): Featured project in Unify documentation
-- **Best Final Year Undergraduate Project** (2024): Recognized by RISE Uganda, Total Energies, and Infectious Diseases Institute for outstanding project at Makerere University, College of Computing and Information Sciences
+- **Best Final Year Undergraduate Project** (2024): Recognized by RISE Uganda, UNipod(UNDP and Makerere University),Total Energies, and Infectious Diseases Institute for outstanding project at Makerere University, College of Computing and Information Sciences. Recognition from Principal at the School of Computing , Makerere University.
 - **Meta Africa AR/VR Hackathon Runners Up** (2022): Collaborated on innovative AR/VR solutions
 - **International Student Merit Scholarship, Colorado Mesa University** (2019)
 - **Government Sponsorship, Makerere University** (2016): Awarded for top academic performance
+- **StateHouse Uganda, Masters in AI Sponsorship** (2023): Chosen from the School of Computing for technical expertise and merit-based qualifications. Currently in the vetting process, awaiting graduation and further updates. Aptitudes excelled at National Innovation Hub.
 - **Best Student UACE (Physics Class), Gombe Secondary School** (2015): AAA in Physics, Math, and Economics
 
 ## 🛠 Skills
