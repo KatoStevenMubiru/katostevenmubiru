@@ -62,6 +62,7 @@ I'm a versatile AI/ML engineer passionate about developing innovative solutions 
 - Applied AI in Healthcare, Energy, Finance, Autonomous Systems, Telecoms, and Security
 - Ethical AI and responsible technology development
 - Bridging AI software and hardware through chip design and data center architecture
+- Trust and Safety Engineering of Systems .
 - Cultural preservation and technological advancement integration
 
 ## 📊 GitHub Stats
