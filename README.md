@@ -15,6 +15,7 @@ I'm a versatile AI/ML engineer passionate about developing innovative solutions 
 - **Outstanding Contributor at Unify** (2024): Featured project in Unify documentation
 - **Best Final Year Undergraduate Project** (2024): Recognized by RISE Uganda, UNipod(UNDP and Makerere University),Total Energies, and Infectious Diseases Institute for outstanding project at Makerere University, College of Computing and Information Sciences. Recognition from Principal at the School of Computing , Makerere University.
 - **Meta Africa AR/VR Hackathon Runners Up** (2022): Collaborated on innovative AR/VR solutions
+- **UNDP Timbkutoo Initiative Fellow** Select to be part of UNs program through Makerere Unipod. Project number 026/24. Selected on merit after presenting an outstanding project in healthcare with my team.
 - **International Student Merit Scholarship, Colorado Mesa University** (2019)
 - **Government Sponsorship, Makerere University** (2016): Awarded for top academic performance
 - **StateHouse Uganda, Masters in AI Sponsorship** (2023): Chosen from the School of Computing for technical expertise and merit-based qualifications. Completed initial the vetting process, awaiting graduation and further updates. Aptitudes excelled at National Innovation Hub.
