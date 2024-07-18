@@ -9,7 +9,7 @@ Dedicated to advancing applied AI research through close collaboration with rese
 I'm a versatile AI/ML engineer passionate about developing innovative solutions across various domains. My journey in tech is marked by a consistent track record of academic excellence and industry recognition, from early achievements in physics to recent contributions in cutting-edge AI projects.
 
 ## 🏆 Honors & Awards
-- **UNDP Timbkutoo Initiative Fellow (2024- Present)** Select to be part of UNs program through Makerere Unipod. Project number 026/24. Selected on merit after presenting an outstanding project in healthcare with my team.
+- **UNDP Timbkutoo Initiative Fellow (2024- Present)** Selected to be part of UN's program through Makerere Unipod with Project number **026/24**. Selected on merit after presenting an outstanding project in healthcare with my team.
 - **Alibaba GEC Participant** (2024): Developing AI-powered financial management tools for e-commerce
 - **Anthropic's Build with Claude Hackathon Participant** (2024): Created a Healthcare Document Interrogation System
 - **Mistral AI Fine-tuning Hackathon Participant** (2024)
