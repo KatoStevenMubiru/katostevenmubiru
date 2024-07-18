@@ -31,11 +31,14 @@ I'm a versatile AI/ML engineer passionate about developing innovative solutions 
 
 ## 🔬 Current Projects
 1. **Unify-LlamaIndex Integration (Unify)**
-2. **Healthcare AI Agent (Claude 3.5 Sonnet & LlamaIndex)**
-3. **Drug-Genomics Interaction AI (Mistral AI & LlamaIndex)**
-4. **Global Budget Planner for Cross-Border E-commerce (Alibaba Group)**
-5. **Perplexica Integration (Unify)**
-
+2. **Drug-Genomics Interaction AI (Mistral AI & LlamaIndex)**
+3. **Global Budget Planner for Cross-Border E-commerce (Alibaba Group)**
+4. **Perplexica Integration (Unify)**
+5. **Microsoft's Promptflow Integration (Unify)**
+6. **HuggingFace's ChatUI Integration (Unify)**
+7. **SalesForce AI's AgentLite Integration (Unify)**
+8. **LangChain Integration (Unify)**
+   
 ## 🌟 Community Involvement
 - **Mistral AI**: Contributor on Discord & GitHub
 - **Anthropic**: Community Contributor, participant in Build with Claude contest
