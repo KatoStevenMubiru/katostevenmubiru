@@ -45,7 +45,7 @@ I'm a versatile AI/ML engineer passionate about developing innovative solutions 
 - **Alibaba Group**: GEC Challenge participant
 - **Stability AI**: Former Community Contributor
 - **Buganda Kingdom**: Youth Representative
-- **UNDP**Innovative Fellow
+- **UNDP**: Innovative Fellow
 
 ## 🎓 Key Certifications
 - NVIDIA: Building RAG Agents with LLMs, AI in the Data Center
