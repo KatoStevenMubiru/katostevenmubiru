@@ -60,7 +60,7 @@ I'm a versatile AI/ML engineer passionate about developing innovative solutions 
 - Udacity: Data Scientist,Data Engineer, Data Streaming, Ethical AI, Generative AI, Autonomous Flight Engineer etc.
 
 ## 📫 Connect with Me
-- LinkedIn: [Kato Steven](https://www.linkedin.com/in/katostevenmubiru/)
+- LinkedIn: [Kato Steven Mubiru](https://www.linkedin.com/in/katostevenmubiru/)
 - GitHub: [@katostevenmubiru](https://github.com/katostevenmubiru)
 
 ## 💡 Research Interests
